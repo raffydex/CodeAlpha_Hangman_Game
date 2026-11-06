@@ -153,7 +153,24 @@ py hangman.py
 
 No external Python packages are required.
 
+## 10. Screenshots and Gameplay Demonstration
 
+The following screenshots demonstrate the different features and stages of the Hangman game.
+
+### Welcome Screen
+![Welcome Screen](screenshots/welcome.png)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Winning Screen
+![Winning Screen](screenshots/win.png)
+
+### Game Over
+![Game Over](screenshots/game-over.png)
+
+### Input Validation
+![Input Validation](screenshots/input-validation.png)
 
 ## 11. Development Journey
 
